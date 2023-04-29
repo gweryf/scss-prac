@@ -1,3 +1,5 @@
+import "./styles/profile.scss"
+
 const Profile = ()=>{
     return(
         <>
